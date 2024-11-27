@@ -20,7 +20,9 @@
 <p>Os elementos gráficos (prefabs e materials), em sua maioria, são oriundos da Asset Store e da Skecthfab. Porém, alguns materials foram criado no próprio Unity.Segue abaixo os links dos assets usados.</p>
 
 **She-Ra**: [Adora/She-Ra](https://sketchfab.com/3d-models/adora-minifig-8118c15ad761452db41fcf7d501a0aa5);
+
 **Obstáculos**: [obstaculos](https://assetstore.unity.com/packages/3d/props/weapons/lowpoly-medieval-weapon-pack-291374);
+
 **Decoração**: [deco](https://assetstore.unity.com/packages/3d/props/medieval-props-v2-258935);
 
 ## Programação
