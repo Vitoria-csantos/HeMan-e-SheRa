@@ -25,6 +25,12 @@
 
 **Decoração**: [deco](https://assetstore.unity.com/packages/3d/props/medieval-props-v2-258935);
 
+**Paredes e portais**: [medieval](https://assetstore.unity.com/packages/3d/environments/dungeons/lite-dungeon-pack-low-poly-3d-art-by-gridness-242692);
+
+**Textura da parede**: [textura da parede](https://assetstore.unity.com/packages/tools/particles-effects/volumetric-lines-29160);
+
+**Textura das placas da fase 2**: [textura das placas](https://assetstore.unity.com/packages/2d/textures-materials/free-sci-fi-textures-9933); 
+
 ## Programação
 
 
