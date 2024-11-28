@@ -1,5 +1,8 @@
 # He-Man e She-Ra: O Segredo da Espada Mágica.
 
+### Membros:
+<p>Sabrina Caetano e Vitória Colussi</p>
+
 ## Proposta da cena
 <p>A proposta da cena é um parkour de duas fases nas quais o jogador controla a personagem She-Ra. Na primeira fase do parkour, o jogador tem que desviar dos obstáculos industriais e medievais para sair do cômodo. Na segunda fase, deve-se pular nas placas metálicas para não cair na água verde, porém, se não pular rápido, as placas afundarão. Após esses percursos passados, chega-se no cômodo final: uma masmorra com a gaiola que guarda o He-Man.</p>
 
