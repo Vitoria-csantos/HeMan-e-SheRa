@@ -9,8 +9,12 @@
 ## Análise de cores
 <p>A obra segue o esquema clássico da teoria das cores: os personagens e lugares com paletas mais claras e diversificadas simbolizam personagens bons e lugares seguros. Já os personagens que utilizam cores escuras e fechadas são geralmente maus, assim ccomo os lugares com tais cores.</p>
 
+## Análise dos protagonistas
+
+## He-Man
+
 ## Proposta da cena
-<p>A proposta da cena é um parkour de duas fases nas quais o jogador controla a personagem She-Ra. Na primeira fase do parkour, o jogador tem que desviar dos obstáculos industriais e medievais para sair do cômodo. Na segunda fase, deve-se pular nas placas metálicas para não cair na água verde, porém, se não pular rápido, as placas afundarão. Após esses percursos passados, chega-se no cômodo final: uma masmorra com a gaiola que guarda o He-Man.</p>
+<p>A proposta da cena é um parkour de duas fases nas quais o jogador controla a personagem She-Ra. Na primeira fase do parkour, o jogador tem que desviar dos obstáculos industriais e medievais para sair do cômodo. Na segunda fase, deve-se pular nas placas metálicas para não cair na água verde, porém, se não pular rápido, as placas afundarão. Após esses percursos passados, chega-se no cômodo final: uma masmorra com a gaiola que guarda o He-Man. A única personagem envolvida na cena é a Adora/She-Ra, mas o personagem do He-Man está representado por uma gaiola no último cenário. A jogabilidade é a de um jogo de plataforma, onde o personagem se move para a esuqerda (tecla D), esquerda (tecla A) e para cima (barra de espaço).</p>
 
 
 
@@ -27,7 +31,6 @@
 ## Elementos gráficos
 <p>Os elementos gráficos (prefabs e materials), em sua maioria, são oriundos da Asset Store e da Skecthfab. Porém, alguns materials foram criado no próprio Unity.Segue abaixo os links dos assets usados.</p>
 
-**She-Ra**: [Adora/She-Ra](https://sketchfab.com/3d-models/adora-minifig-8118c15ad761452db41fcf7d501a0aa5);
 
 **Obstáculos**: [obstaculos](https://assetstore.unity.com/packages/3d/props/weapons/lowpoly-medieval-weapon-pack-291374);
 
