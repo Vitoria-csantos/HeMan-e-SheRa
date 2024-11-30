@@ -3,11 +3,11 @@
 ### Membros:
 <p>Sabrina Caetano e Vitória Colussi</p>
 
-## Inspiração para a cena
+## Descrição da obra
 <p>A inspiração veio do filme He-Man e She-Ra: O Segredo da Espada Mágica. Conforme indicado pelas professoras Aline e Nívia, a cena do filme que a dupla deveria retratar é a da fuga dos protagonistas da Horda. Ao invés de representar a parte específica em que a fuga ocorre, foi escolhido representar o caminho para a fuga, quando adora vai salvar He-Man e descobre que é a irmã gêmea dele. A obra gira em torno de uma missão de He-Man no planeta de Etéria, para ajudar a Rebelião que luta contra o governo ditatorial da Horda. O protsgonista carrega consigo uma segunda espada a qual, mais para frente na trama, ele descobre ser de sua irmã gêmea perdida, Adora.</p>
 
 ## Análise de cores
-<p>A obra segue o esquema clássico da teoria das cores: os personagens e lugares com paletas mais claras e diversificadas simbolizam personagens bons e lugares seguros. Já os personagens que utilizam cores escuras e fechadas são geralmente maus, assim ccomo os lugares com tais cores.</p>
+<p>A obra segue o esquema clássico da teoria das cores: os personagens e lugares com paletas mais claras e diversificadas simbolizam personagens bons e lugares seguros. Já os personagens que utilizam cores escuras e fechadas são geralmente maus, assim ccomo os lugares com tais cores. As cores mais presentes nos cenários dos vilões são o verde (podendo significar terror, medo e apreensão), o preto (podendo representar o mistério, poder e maldade) e o vermelho (representando a guerra, o sangue e o perigo). Já as cores mais representadas com os mocinhos são um tom de verde mais claro (representando a natureza e o crescimento), o rosa (simbolizando inocência e proteção), o azul (indicando estabilidade e confiança) e o amarelo (representando alegria e energia).</p>
 
 ## Análise dos protagonistas
 
