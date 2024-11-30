@@ -9,6 +9,9 @@
 <p>Neste meio tempo, He-Man é capturado pela Horda e preso em uma máquina cujo objetivo é sugar toda a energia de um ser humano para uma máquina destrutiva. Adora recupera suas memórias e vai salvar He-Man. Ao encontrar com as duas espadas que ele carregava, recebe o chamado da Feiteceira e se transforma na heroína She-Ra e descobre ser a irmã gêmea de Adam, roubada no berço pela Horda. Assim, escapa com He-Man da Zona do Medo, aliando-se à Rebelião.</p>
 <p>Após as lutas contra a Horda, Adora vai conhecer seus pais biológicos em Etérnia, onde mais um conflito com a Horda ocorre, porém com a vitória dos heróis. </p>
 
+## Descrição da cena definida
+<p>A cena definida é a da fuga. Ela começa com Adora pertubada em seu sono e sendo chamada pela espada. Ela acorda e decide ir até onde He-Man está preso, recebendo o chamado da Feiteceira e descobrindo que, na verdade, ela era a princesa Adora de Etérnia, irmã gêmea de Adam (He-Man) e guerreira She-Ra. Assim, temos a primeira transformação de Adora em She-Ra. Ela liberta He-Man de sua prisão e juntos eles escapam da Horda, sendo perseguidos por Hordak e seus capangas.</p>
+
 ## Análise de cores da obra
 <p>A obra segue o esquema clássico da teoria das cores: os personagens e lugares com paletas mais claras e diversificadas simbolizam personagens bons e lugares seguros. Já os personagens que utilizam cores escuras e fechadas são geralmente maus, assim ccomo os lugares com tais cores. As cores mais presentes nos cenários dos vilões são o verde (podendo significar terror, medo e apreensão), o preto (podendo representar o mistério, poder e maldade) e o vermelho (representando a guerra, o sangue e o perigo). Já as cores mais representadas com os mocinhos são um tom de verde mais claro (representando a natureza e o crescimento), o rosa (simbolizando inocência e proteção), o azul (indicando estabilidade e confiança) e o amarelo (representando alegria e energia).</p>
 
@@ -47,6 +50,9 @@
 
 ## Diagrama
 ![48a4346a-3aa5-4acd-addb-1f71e1ecd2bb](https://github.com/user-attachments/assets/53fccddf-4988-4a6d-9381-c532f52c7dae)
+
+## Desenvolvimento
+<p>O jogo foi desenvolvido na plataforma Unity tanto em sala de aula quanto em casa. Cr</p>
 
 
 ## Programação
