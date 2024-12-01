@@ -69,7 +69,7 @@
 ## Desenvolvimento
 <p>O jogo foi desenvolvido na plataforma Unity tanto em sala de aula quanto em casa. Foram criados três planos para dividir as fases, que foram decoradas com assetas anexados acima. </p>
 <p>Para a personagem controolada pelo jogador, o asset usado recebeu rigidbody para ocorrer gravidade  quando a barra de espaço é utilizada para o pulo. Na parte de programação, tudo foi feito usando a estrutura do if...else. Tal estrutura foi utilizada para o movimento, colisão e respawn.</p>
-<p>Os obstáculos foram classificados em duas classes, onde uma é filha da outra. A classe mãe é a obstáculos e está presente na primeira fase e no plano da segunda fase. Quando a personagem colide com algum desses objetos, volta a sua posição inicial. A classe filha é a classes, aplicada nas placas da segunda fase </p>
+<p>Os obstáculos foram classificados em duas classes, onde uma é filha da outra. A classe mãe é a obstáculos e está presente na primeira fase e no plano da segunda fase. Quando a personagem colide com algum desses objetos, volta a sua posição inicial. A classe filha é a classes, aplicada nas placas da segunda fase, não causa o respawn, mas faz com que a plataforma subitamente ganhe o rigidbody e caia. Assim, o jogador teria que pular rapidamente de plataforma em plataforma. Nos obstáculos que não são as placas, foi adicionado o mesh collider, o qual pega um Mesh Asset e constrói um colisor que corresponde à geometria dessa malha. Quando o jogador chega no último cenário, o jogo acaba. </p>
 
 
 ## Programação
