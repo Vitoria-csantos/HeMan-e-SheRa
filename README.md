@@ -40,6 +40,9 @@
 ## Descrição visual da cena 
 <p>A cena é dividida em três partes. A primeira parte da cena é similar a uma masmorra com obstáculos industriais. As paredes são texturizadas de pedra e têm as bandeiras similares com as da horda. A segunda parte da cena é similar a um lago tóxico com o fundo de imagem da horda do rebbot de 2018 do desenho, She-Ra e as Princesas do Poder. O chão simula a água e as plataformas tem a texturização de placas de aço. A terceira e última parte da cena traz o jogador de volta ao interior. Há uma jaula no meio do cômodo, representando a prisão de He-Man no filme. O objetivo é criar uma impressão onde o jogador está dentro da sede da Horda, depois fora e dentro novamente.</p>
 
+## Teoria das cores da cena
+<p>A cena apresenta cores fechadas que se assemelham as cores da cena. As cores mais usadas são tons de verde fechados (indicando apreensão e terror), o preto (indicando mistério), o vermelho, nas bandeiras, simulando a logo da Horda (indicando guerra) e o prata (representando frieza). O objetivo foi criar um abiente vilanesco clássico dos anos oitenta, indicando perigo em qualquer canto.</p>
+
 ## Elementos gráficos
 <p>Os elementos gráficos (prefabs e materials), em sua maioria, são oriundos da Asset Store e da Skecthfab. Porém, alguns materials foram criado no próprio Unity.Segue abaixo os links dos assets usados.</p>
 
@@ -58,7 +61,7 @@
 ![48a4346a-3aa5-4acd-addb-1f71e1ecd2bb](https://github.com/user-attachments/assets/53fccddf-4988-4a6d-9381-c532f52c7dae)
 
 ## Desenvolvimento
-<p>O jogo foi desenvolvido na plataforma Unity tanto em sala de aula quanto em casa. Cr</p>
+<p>O jogo foi desenvolvido na plataforma Unity tanto em sala de aula quanto em casa. Foram criados três planos para dividir as fases, que foram decoradas com assetas anexados acima. </p>
 
 
 ## Programação
