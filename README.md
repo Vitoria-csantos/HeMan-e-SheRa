@@ -29,6 +29,8 @@
 <p>A proposta da cena é um parkour de duas fases nas quais o jogador controla a personagem She-Ra. Na primeira fase do parkour, o jogador tem que desviar dos obstáculos industriais e medievais para sair do cômodo. Na segunda fase, deve-se pular nas placas metálicas para não cair na água verde, porém, se não pular rápido, as placas afundarão. Após esses percursos passados, chega-se no cômodo final: uma masmorra com a gaiola que guarda o He-Man. A única personagem envolvida na cena é a Adora/She-Ra, mas o personagem do He-Man está representado por uma gaiola no último cenário. A jogabilidade é a de um jogo de plataforma, onde o personagem se move para a esuqerda (tecla D), esquerda (tecla A) e para cima (barra de espaço).</p>
 
 
+![21d2bf13-2b41-497f-ba36-2107ea68314b](https://github.com/user-attachments/assets/9c363f97-d647-4430-bd2d-1ae5bd42ed86)
+
 
 ## Link do episódio em que a cena ocorre
 <p>https://youtu.be/zWi6WJI-Dvo?si=ZtbwHYVRf2JaumgW</p>
@@ -57,11 +59,17 @@
 
 **Textura das placas da fase 2**: [textura das placas](https://assetstore.unity.com/packages/2d/textures-materials/free-sci-fi-textures-9933); 
 
-## Diagrama
+## Diagrama de classes
+### Rascunho original
+![f358cb47-217d-48dd-8bac-4c78774f2648](https://github.com/user-attachments/assets/b9367e1c-3501-49eb-9469-5f289b9b01f1)
+
+### Versão final e corrigida
 ![48a4346a-3aa5-4acd-addb-1f71e1ecd2bb](https://github.com/user-attachments/assets/53fccddf-4988-4a6d-9381-c532f52c7dae)
 
 ## Desenvolvimento
 <p>O jogo foi desenvolvido na plataforma Unity tanto em sala de aula quanto em casa. Foram criados três planos para dividir as fases, que foram decoradas com assetas anexados acima. </p>
+<p>Para a personagem controolada pelo jogador, o asset usado recebeu rigidbody para ocorrer gravidade  quando a barra de espaço é utilizada para o pulo. Na parte de programação, tudo foi feito usando a estrutura do if...else. Tal estrutura foi utilizada para o movimento, colisão e respawn.</p>
+<p>Os obstáculos foram classificados em duas classes, onde uma é filha da outra. A classe mãe é a obstáculos e está presente na primeira fase e no plano da segunda fase. Quando a personagem colide com algum desses objetos, volta a sua posição inicial. A classe filha é a classes, aplicada nas placas da segunda fase </p>
 
 
 ## Programação
