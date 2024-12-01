@@ -31,6 +31,11 @@
 
 ![21d2bf13-2b41-497f-ba36-2107ea68314b](https://github.com/user-attachments/assets/9c363f97-d647-4430-bd2d-1ae5bd42ed86)
 
+### Rascunho dos personagens
+<p>Foi utilizado um sprite para o personagem controlado pelo player.</p>
+
+![fd603ae6-58d4-4935-975b-d107477706e7](https://github.com/user-attachments/assets/8ed1710a-8ffd-4876-a91c-cd008e757c1b)
+
 
 ## Link do episódio em que a cena ocorre
 <p>https://youtu.be/zWi6WJI-Dvo?si=ZtbwHYVRf2JaumgW</p>
