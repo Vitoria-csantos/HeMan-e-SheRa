@@ -72,10 +72,6 @@
 <p>Os obstáculos foram classificados em duas classes, onde uma é filha da outra. A classe mãe é a obstáculos e está presente na primeira fase e no plano da segunda fase. Quando a personagem colide com algum desses objetos, volta a sua posição inicial. A classe filha é a classes, aplicada nas placas da segunda fase, não causa o respawn, mas faz com que a plataforma subitamente ganhe o rigidbody e caia. Assim, o jogador teria que pular rapidamente de plataforma em plataforma. Nos obstáculos que não são as placas, foi adicionado o mesh collider, o qual pega um Mesh Asset e constrói um colisor que corresponde à geometria dessa malha. Quando o jogador chega no último cenário, o jogo acaba. </p>
 
 
-## Programação
-
-
-
 ## Link do Jogo
 [jogo](https://drive.google.com/drive/folders/1USfRsre0vSOTuZmRf-48YkjqhzP5gReF?hl=pt_BR)
 
