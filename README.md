@@ -80,6 +80,9 @@
 ## Link do Jogo
 [jogo](https://drive.google.com/drive/folders/1USfRsre0vSOTuZmRf-48YkjqhzP5gReF?hl=pt_BR)
 
+## Link do video da Cena
+[Video](https://drive.google.com/file/d/14z7i_fkzkrwz-K9NHR8mBkie42YhWtAe/view?usp=drive_link).
+
 
 ## Relatório 
 <p>As componentes da dupla trabalharam juntas em todas as partes do jogo. Porém, com ênfases diferentes nas partes. Vitória ficou com mais foco no design e documentação enquanto Sabrina ficou mais focada na programação e mecânica. Ambas contribuíram igualmente para a construção da lógica e do diagrama. A dupla não teve desentendimentos.</p>
