@@ -1,6 +1,7 @@
 using NUnit.Framework.Constraints;
 using System.Collections;
 using System.Collections.Generic;
+<<<<<<< HEAD
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
@@ -21,6 +22,24 @@ public class Moviment : MonoBehaviour
             moviment = new Vector3(-588, 76, -50);
             transform.position = moviment;
             moviment.Set(0, 0, 0);
+=======
+using UnityEngine;
+using UnityEngine.UIElements;
+
+public class moviment : MonoBehaviour
+{ 
+        Vector3 movimento;
+        
+
+        // Start is called before the first frame update
+        void Start()
+        {
+            movimento = new Vector3(-17, 24, -44);
+            transform.position = movimento;
+            movimento.Set(0, 0, 0);
+        
+
+>>>>>>> 1af83f9a23fcd80bc0469bb01f561e384e3f2f89
         }
 
         // Update is called once per frame
@@ -28,6 +47,7 @@ public class Moviment : MonoBehaviour
         {
             if (Input.GetKey(KeyCode.D))
             {
+<<<<<<< HEAD
                 moviment.x = 0.5f;
                 transform.Translate(moviment);
             }
@@ -58,3 +78,31 @@ public class Moviment : MonoBehaviour
 }
 
 
+=======
+                movimento.x = 0.5f;
+                transform.Translate(movimento);
+            }
+            if (Input.GetKey(KeyCode.A))
+            {
+                movimento.x -= 0.5f;
+                transform.Translate(movimento);
+            }
+            
+            if (Input.GetKey(KeyCode.Space))
+            {
+                movimento.y = 0.2f;
+                transform.Translate(movimento);
+                if (movimento.y >= 24f)
+            { 
+                
+
+            }
+             
+
+
+        }
+        movimento.Set(0, 0, 0);
+        }
+ 
+}
+>>>>>>> 1af83f9a23fcd80bc0469bb01f561e384e3f2f89
